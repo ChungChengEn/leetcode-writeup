@@ -3,8 +3,7 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/john_coding_as_learning?ext=heatmap)
-![LeetCode Stats](https://leetcard.jacoblin.cool/john_coding_as_learning?ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/john_coding_as_learning?ext=contest&theme=unicorn)
 
 ---
 

@@ -7,4 +7,4 @@
 
 ---
 
-![Codeforces Rating](https://cfviz.vercel.app/john_coding_as_learning)
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=john_coding_as_learning)
